@@ -1,0 +1,16 @@
+# Compiled Java classes
+*.class
+
+# Serialized data files
+*.dat
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.project
+*.classpath
+
+# OS files
+.DS_Store
+Thumbs.db
