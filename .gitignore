@@ -1,6 +1,10 @@
 # Compiled Java classes
 *.class
 
+# Build output
+build/
+*.war
+
 # Serialized data files
 *.dat
 
@@ -10,6 +14,7 @@
 .vscode/
 *.project
 *.classpath
+*.settings/
 
 # OS files
 .DS_Store
